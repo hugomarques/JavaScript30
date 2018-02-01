@@ -1,10 +1,10 @@
 ![](https://javascript30.com/images/JS3-social-share.png)
 
-# JavaScript30
+# JavaScript30 Hugo's version
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+This is my path on JavaScript Day Challenge. You can grab the course at [https://JavaScript30.com](https://JavaScript30.com).
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+Below are some other community content for the same course.
 
 ## Community #JavaScript30 Content
 
@@ -35,11 +35,3 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 * [Dustin Hsiao](https://github.com/dustinhsiao21/Javascript30-dustin) 包含了各篇介紹、 效果Demo、各篇詳解及記錄過程，附上部分延伸閱讀及[gh-page](https://dustinhsiao21.github.io/Javascript30-dustin/)。
 * [GuaHsu](https://github.com/guahsu/JavaScript30) - 紀錄各篇練習過程與心得，並嘗試擴充部分練習，也做了一個包含全部練習的[介紹站](http://guahsu.io/JavaScript30/)🇹🇼 
 * [Daniela](https://github.com/misslild)'s completed challenges on [GitHub Pages](https://misslild.github.io/WesBos-30day-Coding-challenge/) and [Codepen](https://codepen.io/collection/DapZeP/) :raised_hands: :muscle: :+1:
-
-## A note on Pull Requests
-
-These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
-
-The starter files + solutions will be updated if/when the videos are updated.
-
-Thanks!
