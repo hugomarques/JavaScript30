@@ -4,6 +4,8 @@
 
 This is my path on JavaScript Day Challenge. You can grab the course at [https://JavaScript30.com](https://JavaScript30.com).
 
+Original files from @wesbos and solutions can be found here. All the images are from Death To Stock.
+
 Below are some other community content for the same course.
 
 ## Community #JavaScript30 Content
